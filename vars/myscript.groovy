@@ -1,4 +1,4 @@
 def call()
 {
-echo 5
+sh "echo This is my first shared library example"
 }
